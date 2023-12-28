@@ -1,0 +1,10 @@
+Connection in, 1, 0.45, min
+SMS, 2, 1, #
+Coonection out, 3, 07, min
+Rouming, 4, 10, min
+International, 5, 5, min
+Internet, 6, 500, mounth
+MMS, 7, 5, #
+GMS, 8, 1, min
+Answering machine, 9, 50, mounth
+WAP, 10, 30, day
